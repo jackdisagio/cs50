@@ -7,4 +7,4 @@ you can install it by this official guide: [https://cs50.readthedocs.io/librarie
 
 # the project included:
 - crypto.c [This program encrypts messages using the Caesar cipher algorithm. The key is an integer. Each alphabetic character in the given text is shifted by that amount, based on the ASCII table.]
-- - decrypto.c []
+- - decrypto.c [This program decrypts messages using the Caesar cipher algorithm based on the ASCII table. To work, it must use the same encryption key as the encryption software.]
